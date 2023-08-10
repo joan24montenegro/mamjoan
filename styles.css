@@ -1,0 +1,27 @@
+***css
+body{
+    text-decoration:rgb(64, 253, 149);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: #4d0392;
+} 
+img{
+    scroll-margin-right: ;
+}
+
+header,footer, article {
+    background: color #23d14e;
+    padding: 20px;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+h1{ 
+    font-stretch: expanded;
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+}
